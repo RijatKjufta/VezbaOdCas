@@ -79,8 +79,11 @@ background-color: grey;
 }
 .end-section{
     background-color: yellowgreen;
-    width: 100%;
+    width: 138%;
     height: 6em;
+    text-align: center;
+    color: black;
+    margin-left: -7em;
 }
 @media (max-width:768px) 
 {
