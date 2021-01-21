@@ -62,6 +62,7 @@ a{
     border-bottom: 1px solid;
 }
 .pic-background-big{
+background-color: grey;
 
 }
 .img-cover-big{
@@ -81,4 +82,14 @@ a{
     width: 100%;
     height: 6em;
 }
+@media (max-width:768px) 
+{
+    .img-cover-big {
+        width: 35em;
+        margin-left: 5em;
+        margin-bottom: 7em;
+        position: absolute;
+        margin-top: 32em;
+     }
+ }
 
